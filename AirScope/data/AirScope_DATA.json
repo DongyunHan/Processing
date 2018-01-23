@@ -1,0 +1,758 @@
+﻿[
+{
+    "country": "Argentina",
+    "loc": {
+      "lon": -58.35037612915039,
+      "lat": -34.65144729614258
+    },
+    "city": "Dock%20Sud",
+    "state": "Buenos%20Aires",
+    "pollution": {
+      "pm25": 11,
+      "pm10": 18
+    }
+  },
+{
+    "country": "Austria",
+    "loc": {
+      "lon": 16.43454933166504,
+      "lat": 48.203060150146484
+    },
+    "city": "Vienna",
+    "state": "Vienna",
+    "pollution": {
+      "pm25": 24,
+      "pm10": 31
+    }
+  },
+
+{
+    "country": "Australia",
+    "loc": {
+      "lon": 151.1259307861328,
+      "lat": -33.92637252807617
+    },
+    "city": "Sydney",
+    "state": "New%20South%20Wales",
+    "pollution": {
+      "pm25": 14.899999618530273,
+      "pm10": 33.79999923706055
+    }
+  },
+{
+    "country": "Australia",
+    "loc": {
+      "lon": 145.05760192871094,
+      "lat": -37.722900390625
+    },
+    "city": "Melbourne",
+    "state": "Victoria",
+    "pollution": {
+      "pm25": 5.199999809265137,
+      "pm10": 0
+    }
+  },
+
+{
+  "country": "Bangladesh",
+  "loc": {
+    "lon": 90.42327117919922,
+    "lat": 23.795988082885742
+  },
+  "city": "Dhaka",
+  "state": "Dhaka",
+  "pollution": {
+    "pm25": 179,
+    "pm10": 0
+  }
+},
+
+{
+    "country": "Belgium",
+    "loc": {
+      "lon": 4.288336277008057,
+      "lat": 50.8580322265625
+    },
+    "city": "Berchem-Sainte-Agathe",
+    "state": "Brussels",
+    "pollution": {
+      "pm25": 6,
+      "pm10": 10
+    }
+  },
+{
+    "country": "Brazil",
+    "loc": {
+      "lon": -46.76897048950195,
+      "lat": -23.668460845947266
+    },
+    "city": "Sao%20Paulo",
+    "state": "Sao%20Paulo",
+    "pollution": {
+      "pm25": 10,
+      "pm10": 21
+    }
+  },
+
+ {
+    "country": "Canada",
+    "loc": {
+      "lon": -75.67639923095703,
+      "lat": 45.43220138549805
+    },
+    "city": "Ottawa",
+    "state": "Ontario",
+    "pollution": {
+      "pm25": 22,
+      "pm10": 0
+    }
+  },
+ {
+    "country": "Chile",
+    "loc": {
+      "lon": -70.7201919555664,
+      "lat": -33.424217224121094
+    },
+    "city": "Santiago",
+    "state": "Santiago%20Metropolitan",
+    "pollution": {
+      "pm25": 24,
+      "pm10": 0
+    }
+  },
+
+{
+    "country": "China",
+    "loc": {
+      "lon": 116.46215057373047,
+      "lat": 39.941673278808594
+    },
+    "city": "Beijing",
+    "state": "Beijing",
+    "pollution": {
+      "pm25": 72,
+      "pm10": 144
+    }
+  },
+
+{
+    "country": "China",
+    "loc": {
+      "lon": 114.15777587890625,
+      "lat": 22.282079696655273
+    },
+    "city": "Hong%20Kong",
+    "state": "Hong%20Kong",
+    "pollution": {
+      "pm25": 29.799999237060547,
+      "pm10": 46.79999923706055
+    }
+  },
+ {
+    "country": "China",
+    "loc": {
+      "lon": 121.5383071899414,
+      "lat": 31.22683334350586
+    },
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "pollution": {
+      "pm25": 17,
+      "pm10": 0
+    }
+  },
+  {
+    "country": "Czech%20Republic",
+    "loc": {
+      "lon": 14.411826133728027,
+      "lat": 50.0420036315918
+    },
+    "city": "Prague",
+    "state": "Prague",
+    "pollution": {
+      "pm25": 7,
+      "pm10": 17
+    }
+  },
+
+  {
+    "country": "Finland",
+    "loc": {
+      "lon": 24.939260482788086,
+      "lat": 60.16964340209961
+    },
+    "city": "Helsinki",
+    "state": "Uusimaa",
+    "pollution": {
+      "pm25": 5.599999904632568,
+      "pm10": 7.199999809265137
+    }
+  },
+{
+    "country": "France",
+    "loc": {
+      "lon": 2.35166597366333,
+      "lat": 48.85942459106445
+    },
+    "city": "Paris",
+    "state": "Ile-de-France",
+    "pollution": {
+      "pm25": 14,
+      "pm10": 10.300000190734863
+    }
+  },
+
+  {
+    "country": "Germany",
+    "loc": {
+      "lon": 13.318249702453613,
+      "lat": 52.4636116027832
+    },
+    "city": "Berlin",
+    "state": "Berlin",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 27.200000762939453
+    }
+  },
+
+ {
+    "country": "Hungary",
+    "loc": {
+      "lon": 19.05270004272461,
+      "lat": 47.49850082397461
+    },
+    "city": "Budapest",
+    "state": "Central%20Hungary",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 42
+    }
+  },
+
+  {
+    "country": "India",
+    "loc": {
+      "lon": 72.88260650634766,
+      "lat": 19.072830200195312
+    },
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pollution": {
+      "pm25": 68,
+      "pm10": 0
+    }
+  },
+
+{
+    "country": "Indonesia",
+    "loc": {
+      "lon": 106.79324340820312,
+      "lat": -6.236703872680664
+    },
+    "city": "Jakarta",
+    "state": "Jakarta",
+    "pollution": {
+      "pm25": 11,
+      "pm10": 0
+    }
+  },
+  {
+    "country": "Israel",
+    "loc": {
+      "lon": 35.22087097167969,
+      "lat": 31.783254623413086
+    },
+    "city": "Jerusalem",
+    "state": "Jerusalem%20District",
+    "pollution": {
+      "pm25": 47.29999923706055,
+      "pm10": 0
+    }
+  },
+{
+    "country": "Italy",
+    "loc": {
+      "lon": 7.682644844055176,
+      "lat": 45.05857467651367
+    },
+    "city": "Torino",
+    "state": "Piemonte",
+    "pollution": {
+      "pm25": 10.699999809265137,
+      "pm10": 0
+    }
+  },
+{
+    "country": "Japan",
+    "loc": {
+      "lon": 139.69171142578125,
+      "lat": 35.68948745727539
+    },
+    "city": "Tokyo",
+    "state": "Tokyo",
+    "pollution": {
+      "pm25": 13,
+      "pm10": 14
+    }
+  },
+ {
+    "country": "South%20Korea",
+    "loc": {
+      "lon": 126.97595977783203,
+      "lat": 37.564640045166016
+    },
+    "city": "Seoul",
+    "state": "Seoul",
+    "pollution": {
+      "pm25": 26,
+      "pm10": 38
+    }
+  },
+ {
+    "country": "Mexico",
+    "loc": {
+      "lon": -99.13273620605469,
+      "lat": 19.354902267456055
+    },
+    "state": "Mexico%20City",
+    "city": "Mexico%20City",
+    "pollution": {
+      "pm25": 19.735713958740234,
+      "pm10": 42.57143020629883
+    }
+  },
+
+  {
+    "country": "Nepal",
+    "loc": {
+      "lon": 85.30999755859375,
+      "lat": 27.700000762939453
+    },
+    "city": "Kathmandu",
+    "state": "Central%20Development%20Region",
+    "pollution": {
+      "pm25": 125,
+      "pm10": 0
+    }
+  },
+ {
+    "country": "Netherlands",
+    "loc": {
+      "lon": 4.763422966003418,
+      "lat": 52.433433532714844
+    },
+    "city": "Amsterdam",
+    "state": "Noord-Holland",
+    "pollution": {
+      "pm25": 5.900000095367432,
+      "pm10": 11.899999618530273
+    }
+  },
+
+{
+    "country": "New%20Zealand",
+    "loc": {
+      "lon": 174.7665252685547,
+      "lat": -36.93083190917969
+    },
+    "state": "Auckland",
+    "city": "Auckland",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 41.599998474121094
+    }
+  },
+
+ {
+    "country": "Norway",
+    "loc": {
+      "lon": 10.683365821838379,
+      "lat": 59.93745422363281
+    },
+    "city": "Oslo",
+    "state": "Oslo",
+    "pollution": {
+      "pm25": 23,
+      "pm10": 28
+    }
+  },
+
+ {
+    "country": "Poland",
+    "loc": {
+      "lon": 20.960500717163086,
+      "lat": 52.28160095214844
+    },
+    "city": "Warsaw",
+    "state": "Mazowieckie",
+    "pollution": {
+      "pm25": 26.100000381469727,
+      "pm10": 28.700000762939453
+    }
+  },
+
+ {
+    "country": "Portugal",
+    "loc": {
+      "lon": -9.245416641235352,
+      "lat": 38.843055725097656
+    },
+    "state": "Lisbon",
+    "city": "Lisbon",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 13
+    }
+  },
+{
+  "country": "Peru",
+  "loc": {
+    "lon": -76.98924255371094,
+    "lat": -12.005769729614258
+  },
+  "state": "Lima",
+  "city": "Lima",
+  "pollution": {
+    "pm25": 19.399999618530273,
+    "pm10": 107.04444885253906
+  }
+},
+
+{
+    "country": "Russia",
+    "loc": {
+      "lon": 131.9149627685547,
+      "lat": 43.1152458190918
+    },
+    "city": "Vladivostok",
+    "state": "Primorsky%20Krai",
+    "pollution": {
+      "pm25": 10.5,
+      "pm10": 0
+    }
+  },
+
+{
+  "country": "Saudi%20Arabia",
+  "loc": {
+    "lon": 46.79668045043945,
+    "lat": 24.775285720825195
+  },
+  "city": "Riyadh",
+  "state": "Riyadh",
+  "pollution": {
+    "pm25": 60,
+    "pm10": 0
+  }
+},
+
+{
+    "country": "Slovakia",
+    "loc": {
+      "lon": 17.110679626464844,
+      "lat": 48.144893646240234
+    },
+    "city": "Bratislava",
+    "state": "Bratislava",
+    "pollution": {
+      "pm25": 31,
+      "pm10": 28
+    }
+  },
+
+{
+  "country": "Singapore",
+  "loc": {
+    "lon": 103.83350372314453,
+    "lat": 1.3669815063476562
+  },
+  "city": "Singapore",
+  "state": "Singapore",
+  "pollution": {
+    "pm25": 26,
+    "pm10": 24
+  }
+},
+
+{
+  "country": "South%20Africa",
+  "loc": {
+    "lon": 30.785064697265625,
+    "lat": -29.800729751586914
+  },
+  "city": "Durban",
+  "state": "KwaZulu-Natal",
+  "pollution": {
+    "pm25": 0.20000000298023224,
+    "pm10": 0
+  }
+},
+
+{
+    "country": "Spain",
+    "loc": {
+      "lon": -3.6705195903778076,
+      "lat": 40.44284439086914
+    },
+    "city": "Madrid",
+    "state": "Madrid",
+    "pollution": {
+      "pm25": 3.8125,
+      "pm10": 9.75
+    }
+  },
+{
+    "country": "Switzerland",
+    "loc": {
+      "lon": 7.440641403198242,
+      "lat": 46.950950622558594
+    },
+    "city": "Bern",
+    "state": "Bern",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 8
+    }
+  },
+  {
+    "country": "Taiwan",
+    "loc": {
+      "lon": 121.51370239257812,
+      "lat": 25.123001098632812
+    },
+    "city": "Taipei",
+    "state": "Taipei",
+    "pollution": {
+      "pm25": 2,
+      "pm10": 4
+    }
+  },
+
+{
+    "country": "Turkey",
+    "loc": {
+      "lon": 32.79566955566406,
+      "lat": 39.96773910522461
+    },
+    "city": "Ankara",
+    "state": "Ankara",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 42
+    }
+  },
+
+  {
+    "country": "Thailand",
+    "loc": {
+      "lon": 100.48771667480469,
+      "lat": 13.728425979614258
+    },
+    "city": "Bangkok",
+    "state": "Bangkok",
+    "pollution": {
+      "pm25": 61.79999923706055,
+      "pm10": 89.69999694824219
+    }
+  },
+
+ {
+    "country": "UK",
+    "loc": {
+      "lon": -0.17329125106334686,
+      "lat": 51.47739791870117
+    },
+    "city": "London",
+    "state": "Greater%20London",
+    "pollution": {
+      "pm25": 9,
+      "pm10": 16
+    }
+  },
+  {
+    "country": "USA",
+    "loc": {
+      "lon": -118.24169921875,
+      "lat": 34.066898345947266
+    },
+    "city": "Los%20Angeles",
+    "state": "California",
+    "pollution": {
+      "pm25": 15,
+      "pm10": 22
+    }
+  },
+
+ {
+    "country": "USA",
+    "loc": {
+      "lon": -75.14663696289062,
+      "lat": 42.365055084228516
+    },
+    "city": "New%20York",
+    "state": "New%20York",
+    "pollution": {
+      "pm25": 3.079310417175293,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -84.35780334472656,
+      "lat": 33.72060012817383
+    },
+    "city": "Atlanta",
+    "state": "Georgia",
+    "pollution": {
+      "pm25": 10,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -71.05419921875,
+      "lat": 42.36309814453125
+    },
+    "city": "Boston",
+    "state": "Massachusetts",
+    "pollution": {
+      "pm25": 6,
+      "pm10": 0
+    }
+  },
+ {
+    "country": "USA",
+    "loc": {
+      "lon": -105.00523376464844,
+      "lat": 39.77939987182617
+    },
+    "city": "Denver",
+    "state": "Colorado",
+    "pollution": {
+      "pm25": 15.600000381469727,
+      "pm10": 43
+    }
+  }, 
+{
+    "country": "USA",
+    "loc": {
+      "lon": -83.06890106201172,
+      "lat": 42.32310104370117
+    },
+    "city": "Detroit",
+    "state": "Michigan",
+    "pollution": {
+      "pm25": 9.399999618530273,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -106.40280151367188,
+      "lat": 31.746700286865234
+    },
+    "city": "El%20Paso",
+    "state": "Texas",
+    "pollution": {
+      "pm25": 22.700000762939453,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -156.35028076171875,
+      "lat": 20.27225112915039
+    },
+    "state": "Hawaii",
+    "city": "Hawaii",
+    "pollution": {
+      "pm25": 7.75,
+      "pm10": 0.75
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -95.32610321044922,
+      "lat": 29.901100158691406
+    },
+    "city": "Houston",
+    "state": "Texas",
+    "pollution": {
+      "pm25": 23.100000381469727,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -110.82966613769531,
+      "lat": 33.41901779174805
+    },
+    "city": "Miami",
+    "state": "Arizona",
+    "pollution": {
+      "pm25": 0,
+      "pm10": 31
+    }
+  }, 
+{
+    "country": "USA",
+    "loc": {
+      "lon": -122.39779663085938,
+      "lat": 37.76580047607422
+    },
+    "city": "San%20Francisco",
+    "state": "California",
+    "pollution": {
+      "pm25": 10,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -122.30862426757812,
+      "lat": 47.5682373046875
+    },
+    "city": "Seattle",
+    "state": "Washington",
+    "pollution": {
+      "pm25": 9.300000190734863,
+      "pm10": 0
+    }
+  },
+{
+    "country": "USA",
+    "loc": {
+      "lon": -120.80493927001953,
+      "lat": 47.40510940551758
+    },
+    "state": "Washington",
+    "city": "Washington",
+    "pollution": {
+      "pm25": 12.008929252624512,
+      "pm10": 0.4464285671710968
+    }
+  },
+
+
+{
+    "country": "Vietnam",
+    "loc": {
+      "lon": 105.81880950927734,
+      "lat": 21.02193832397461
+    },
+    "city": "Hanoi",
+    "state": "Hanoi",
+    "pollution": {
+      "pm25": 35,
+      "pm10": 0
+    }
+  }
+]
